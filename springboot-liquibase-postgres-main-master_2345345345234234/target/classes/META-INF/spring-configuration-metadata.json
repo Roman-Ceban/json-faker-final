@@ -1,0 +1,17 @@
+{
+  "groups": [
+    {
+      "name": "users",
+      "type": "com.codingworld.liquibasedemo.configuration.AppProperties",
+      "sourceType": "com.codingworld.liquibasedemo.configuration.AppProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "users.uri",
+      "type": "java.lang.String",
+      "sourceType": "com.codingworld.liquibasedemo.configuration.AppProperties"
+    }
+  ],
+  "hints": []
+}
